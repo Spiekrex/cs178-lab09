@@ -58,4 +58,8 @@ def main():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> 03fd1d2d7d625b3e8bcdfd8a7f3408b9ca44d822
